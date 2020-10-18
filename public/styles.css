@@ -1,0 +1,76 @@
+body {
+    background: #55b9f3;
+    width: 100%;
+}
+
+section {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: center;
+    box-shadow:  20px 20px 60px #489dcf,
+    -20px -20px 60px #62d5ff;
+    border-radius: 50px;
+    font-family: "High Tower Text";
+ }
+
+h1 {
+    color: black;
+    font-family: "High Tower Text";
+}
+
+th{
+    border: 0.2em dotted #62B6CB50;
+    padding: 1em;
+}
+
+table {
+    border-spacing: 1em;
+    border: 0.0em black;
+    color: #CAE9FF;
+    margin: 0 auto;
+}
+
+.list {
+    color: black;
+    border: 2px solid #00000000;
+}
+
+a {
+    color: #1B4965
+}
+
+a:hover {
+    color: white;
+}
+
+.ymer {
+    border: 8px solid #1B496510;
+}
+
+.back {
+    color: black;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
+.stringsNodejs, .objectsNodejs, .arraysNodejs, .backendNodejs, .portListenNodejs, .jQueryNodejs, .formsNodejs {
+    width: 400px;
+    height: 120px;
+    padding: 10px;
+}
+
+.htmlNodejs
+{
+    width: 400px;
+    height: 200px;
+}
+
+.cssNodejs {
+    width: 200px;
+    height: 200px;
+}
+
+.formhtmlNodejs {
+    width: 450px;
+    height: 100px;
+}
